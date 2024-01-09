@@ -42,6 +42,8 @@ Para instalar correctamente el bot, sigue los siguientes pasos:
 4) Instalar las dependencias:
     - La librería principal que permite comunicarse a la API no viene instalada por defecto en Python, por lo que, tenemos que instalarlo a través de <b>PIP</b>: <code>pip install pyrogram</code> y también <code>pip install tgcrypto</code>
 
+<br>
+
 5) Ejecutar el bot:
     - Luego de instalar las dependencias, ejecuta el bot con el comando <code>python main.py</code>
     - Ahora que el bot esté funcionando y no se presente algún error, tienes que ir al @ del bot que estableciste cuando obtuviste las credenciales de tu bot, y usa el comando /start
