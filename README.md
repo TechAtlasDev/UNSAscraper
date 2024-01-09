@@ -1,3 +1,7 @@
+![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/LOGO_UNSA.png/1200px-LOGO_UNSA.png)
+
+---
+
 # UNSAscrapper 🖥️
 
 ## Descripción 📝
