@@ -34,7 +34,7 @@ Para instalar correctamente el bot, sigue los siguientes pasos:
 <br>
 
 2) Clonar este repositorio:
-    - Si vas a usar la terminal, usa el siguiente comando: <code>git clone https://github.com/TechAtlasDev/UNSAscrapper</code>
+    - Si vas a usar la terminal, usa el siguiente comando: <code>git clone https://github.com/TechAtlasDev/UNSAscraper</code>
 
 <br>
 
