@@ -2,7 +2,7 @@
 
 ---
 
-# UNSAscrapper 🖥️
+# UNSAscraper 🖥️
 
 ## Descripción 📝
 
